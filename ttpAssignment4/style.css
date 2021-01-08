@@ -1,0 +1,42 @@
+.Question1 {
+    background-color: blue;
+    text-align: center;
+    padding: 5% 5% 5% 5%;
+    border: solid 7px magenta;
+}
+
+.Question2 {
+    background-color: red;
+    color: greenyellow;
+    text-align: center;
+    padding: 12% 12% 12% 12%;
+    border: solid 7px rgb(255, 230, 0);
+}
+
+.Question3 {
+    background-color: steelblue;
+    color: cyan;
+    padding: 10% 10% 10% 10%;
+    border: solid 7px lavender;
+    text-align: center;
+}
+
+#loginHeader {
+    text-align: center;
+}
+
+body {
+    background-color: darkviolet;
+}
+
+.All {
+    border: solid 25px limegreen;
+    padding: 7% 7% 7% 7%;
+}
+
+.Bonus {
+    border: solid 7px brown;
+    padding: 7% 7% 7% 7%;
+    text-align: center;
+    background-color: darkorange;
+}
